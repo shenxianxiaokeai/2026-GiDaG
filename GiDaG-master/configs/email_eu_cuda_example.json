@@ -1,0 +1,23 @@
+{
+  "dataset_path": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\EmailEU\\EmailEU.pt",
+  "output_dir": "outputs/email_eu_cuda",
+  "methods": ["GEE", "GNN", "GiDaG", "GiDaG-C"],
+  "num_runs": 10,
+  "seed_start": 901,
+  "device": "cuda",
+  "gee": {
+    "replicates": 8,
+    "num_iter": 80,
+    "kmeans_max_iter": 300
+  },
+  "gnn": {
+    "num_epochs": 4000,
+    "learning_rate": 0.01,
+    "weight_decay": 0.0001,
+    "eval_interval": 20,
+    "loss_patience": 80,
+    "hidden_dim": 128,
+    "dropout": 0.2,
+    "cluster_head": "kmeans"
+  }
+}
