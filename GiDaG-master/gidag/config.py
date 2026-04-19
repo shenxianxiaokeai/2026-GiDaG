@@ -18,6 +18,9 @@ class GNNConfig:
     loss_patience: int = 80
     hidden_dim: int = 128
     dropout: float = 0.2
+    use_feature_input: bool = False
+    backbone_mode: str = "paper"  # paper | decoupled
+    gidag_c_auto_balance: bool = False
     cluster_head: str = "kmeans"  # kmeans | argmax
 
 
@@ -25,11 +28,16 @@ class GNNConfig:
 class ExperimentConfig:
     dataset_path: str = r"E:\Article\2026 GiDaG\GiDaG-master\data\EmailEU\EmailEU.pt"
     output_dir: str = "outputs/email_eu_cuda"
-    methods: List[str] = field(default_factory=lambda: ["GEE", "GNN", "GiDaG", "GiDaG-C"])
+    methods: List[str] = field(default_factory=lambda: ["GEE", "GNN", "GiDaG"])
     num_runs: int = 10
     seed_start: int = 901
     device: str = "cuda"
     save_run_npz: bool = True
     save_aggregate_npz: bool = True
+    save_structured_outputs: bool = True
+    structured_topk: int = 20
+    relation_split: float = 0.5
+    relation_tau: float = 0.1
+    bridge_alpha: float = 0.6
     gee: GEEConfig = field(default_factory=GEEConfig)
     gnn: GNNConfig = field(default_factory=GNNConfig)

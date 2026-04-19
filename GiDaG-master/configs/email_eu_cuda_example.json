@@ -5,6 +5,13 @@
   "num_runs": 10,
   "seed_start": 901,
   "device": "cuda",
+  "save_run_npz": true,
+  "save_aggregate_npz": true,
+  "save_structured_outputs": true,
+  "structured_topk": 20,
+  "relation_split": 0.5,
+  "relation_tau": 0.1,
+  "bridge_alpha": 0.6,
   "gee": {
     "replicates": 8,
     "num_iter": 80,
@@ -18,6 +25,9 @@
     "loss_patience": 80,
     "hidden_dim": 128,
     "dropout": 0.2,
+    "use_feature_input": false,
+    "backbone_mode": "paper",
+    "gidag_c_auto_balance": false,
     "cluster_head": "kmeans"
   }
 }

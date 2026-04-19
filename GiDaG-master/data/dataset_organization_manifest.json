@@ -1,0 +1,217 @@
+{
+  "source_root": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data",
+  "target_root": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data",
+  "num_files": 35,
+  "records": [
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\Citeseer_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\Citeseer\\Citeseer.pt",
+      "action": "hardlink",
+      "size_bytes": 7653841
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\Cora_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\Cora\\Cora.pt",
+      "action": "hardlink",
+      "size_bytes": 16845921
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\dblp_top5000.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\dblp_top5000\\dblp_top5000.pt",
+      "action": "hardlink",
+      "size_bytes": 54026517
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\EmailEU_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\EmailEU\\EmailEU.pt",
+      "action": "exists",
+      "size_bytes": 3899589
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time1.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time1.pt",
+      "action": "hardlink",
+      "size_bytes": 94533
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time10.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time10.pt",
+      "action": "hardlink",
+      "size_bytes": 94541
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time11.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time11.pt",
+      "action": "hardlink",
+      "size_bytes": 94541
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time12.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time12.pt",
+      "action": "hardlink",
+      "size_bytes": 94541
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time2.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time2.pt",
+      "action": "hardlink",
+      "size_bytes": 94533
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time3.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time3.pt",
+      "action": "hardlink",
+      "size_bytes": 94533
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time4.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time4.pt",
+      "action": "hardlink",
+      "size_bytes": 94533
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time5.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time5.pt",
+      "action": "hardlink",
+      "size_bytes": 94533
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time6.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time6.pt",
+      "action": "hardlink",
+      "size_bytes": 94533
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time7.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time7.pt",
+      "action": "hardlink",
+      "size_bytes": 94533
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time8.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time8.pt",
+      "action": "hardlink",
+      "size_bytes": 94533
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\enron\\enron_time9.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\enron\\enron_time9.pt",
+      "action": "hardlink",
+      "size_bytes": 94533
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\football.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\football\\football.pt",
+      "action": "hardlink",
+      "size_bytes": 58621
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\karate_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\karate\\karate.pt",
+      "action": "hardlink",
+      "size_bytes": 8376
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\KIT_time6_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\KIT\\KIT_time6.pt",
+      "action": "hardlink",
+      "size_bytes": 119709
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\KIT_time7_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\KIT\\KIT_time7.pt",
+      "action": "hardlink",
+      "size_bytes": 118855
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\KIT_time8_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\KIT\\KIT_time8.pt",
+      "action": "hardlink",
+      "size_bytes": 118855
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\lastfm_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\lastfm\\lastfm.pt",
+      "action": "hardlink",
+      "size_bytes": 232992951
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\LFR_time6_raw_101.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\LFR\\LFR_time6_raw_101.pt",
+      "action": "hardlink",
+      "size_bytes": 4010957
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\LFR_time6_raw_102.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\LFR\\LFR_time6_raw_102.pt",
+      "action": "hardlink",
+      "size_bytes": 4010957
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\LFR_time6_raw_103.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\LFR\\LFR_time6_raw_103.pt",
+      "action": "hardlink",
+      "size_bytes": 4010957
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\LFR_time6_raw_104.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\LFR\\LFR_time6_raw_104.pt",
+      "action": "hardlink",
+      "size_bytes": 4010957
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\LFR_time6_raw_105.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\LFR\\LFR_time6_raw_105.pt",
+      "action": "hardlink",
+      "size_bytes": 4010957
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\polblogs_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\polblogs\\polblogs.pt",
+      "action": "hardlink",
+      "size_bytes": 15770071
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\PubMed_attr_fused.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\PubMed\\PubMed_attr_fused.pt",
+      "action": "hardlink",
+      "size_bytes": 1565296525
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\SBM1_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\SBM1\\SBM1.pt",
+      "action": "hardlink",
+      "size_bytes": 36051230
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\SBM2_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\SBM2\\SBM2.pt",
+      "action": "hardlink",
+      "size_bytes": 36051230
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\SBM3_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\SBM3\\SBM3.pt",
+      "action": "hardlink",
+      "size_bytes": 36051230
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\soc-dolphins.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\soc-dolphins\\soc-dolphins.pt",
+      "action": "hardlink",
+      "size_bytes": 18939
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\wiki_cs.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\wiki_cs\\wiki_cs.pt",
+      "action": "hardlink",
+      "size_bytes": 562506309
+    },
+    {
+      "source": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\data\\wiki_raw.pt",
+      "target": "E:\\Article\\2026 GiDaG\\GiDaG-master\\data\\wiki\\wiki.pt",
+      "action": "hardlink",
+      "size_bytes": 7698773
+    }
+  ]
+}
